@@ -1,4 +1,6 @@
-  export ZSH="$HOME/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
+export PATH="./vendor/bundle/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
 
 export PATH="$PATH:$HOME/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
